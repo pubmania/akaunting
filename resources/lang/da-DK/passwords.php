@@ -15,7 +15,7 @@ return [
 
     'password' => 'Adgangskoder skal være mindst 6 tegn og være ens.',
     'reset' => 'Din adgangskode er blevet nulstillet!',
-    'sent' => 'Vi har sendt dig en E-mail med nulstil password link!',
+    'sent' => 'Vi har sendt dig en e-mail med et link til at nulstille dit kodeord.',
     'token' => 'Denne adgangskodes nulstillings token er ugyldig.',
     'user' => "Vi kan ikke finde en bruger med den E-mail adresse.",
     'throttle' => 'Venligst vent for du prøver igen.',
